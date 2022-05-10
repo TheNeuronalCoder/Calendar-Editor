@@ -1,0 +1,156 @@
+{
+  "April 2, 2022": {
+    "color": "grey",
+    "events": [{"time":"12:00 AM","name":"Holiday","occasion":"none"}]
+  },
+  "April 3, 2022": {
+    "color": "grey",
+    "events": [{"time":"12:00 AM","name":"Holiday","occasion":"none"}]
+  },
+  "April 4, 2022": {
+    "color": "grey",
+    "events": [{"time":"12:00 AM","name":"Holiday","occasion":"none"}]
+  },
+  "April 5, 2022": {
+    "color": "grey",
+    "events": [{"time":"12:00 AM","name":"Holiday","occasion":"none"}]
+  },
+  "April 6, 2022": {
+    "color": "grey",
+    "events": [{"time":"12:00 AM","name":"Holiday","occasion":"none"}]
+  },
+  "April 7, 2022": {
+    "color": "grey",
+    "events": [{"time":"12:00 AM","name":"Holiday","occasion":"none"}]
+  },
+  "April 8, 2022": {
+    "color": "grey",
+    "events": [{"time":"12:00 AM","name":"Holiday","occasion":"none"}]
+  },
+  "April 9, 2022": {
+    "color": "grey",
+    "events": [{"time":"12:00 AM","name":"Holiday","occasion":"none"}]
+  },
+  "April 10, 2022": {
+    "color": "grey",
+    "events": [{"time":"12:00 AM","name":"Holiday","occasion":"none"}]
+  },
+  "April 11, 2022": {
+    "color": "orange",
+    "events": [{"time":"8:10 AM","name":"Orange Day","occasion":"none"}]
+  },
+  "April 12, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/2","occasion":"none"}
+    ]
+  },
+  "April 13, 2022": {
+    "color": "orange",
+    "events": [{"time":"8:10 AM","name":"Orange Day","occasion":"none"}]
+  },
+  "April 14, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/7","occasion":"none"}
+    ]
+  },
+  "April 15, 2022": {
+    "color": "orange",
+    "events": [{"time":"8:10 AM","name":"Orange Day","occasion":"none"}]
+  },
+  "April 18, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/8","occasion":"none"}
+    ]
+  },
+  "April 19, 2022": {
+    "color": "orange",
+    "events": [{"time":"8:10 AM","name":"Orange Day","occasion":"none"}]
+  },
+  "April 20, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/3","occasion":"none"}
+    ]
+  },
+  "April 21, 2022": {
+    "color": "orange",
+    "events": [{"time":"8:10 AM","name":"Orange Day","occasion":"none"}]
+  },
+  "April 22, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/2","occasion":"none"}
+    ]
+  },
+  "April 25, 2022": {
+    "color": "orange",
+    "events": [{"time":"8:10 AM","name":"Orange Day","occasion":"none"}]
+  },
+  "April 26, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/5","occasion":"none"}
+    ]
+  },
+  "April 27, 2022": {
+    "color": "orange",
+    "events": [{"time":"8:10 AM","name":"Orange Day","occasion":"none"}]
+  },
+  "April 28, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/6","occasion":"none"}
+    ]
+  },
+  "April 29, 2022": {
+    "color": "orange",
+    "events": [{"time":"8:10 AM","name":"Orange Day","occasion":"none"}]
+  },
+  "May 1, 2022": {
+    "color": "grey",
+    "events": [{"time":"1:42 PM","name":"independent reading time","occasion":"party"}]
+  },
+  "May 2, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/1","occasion":"none"}
+    ]
+  },
+  "May 3, 2022": {
+    "color": "orange",
+    "events": [
+      {"time":"12:35 PM","name":"homo questioning ???","occasion":"none"},
+      {"time":"12:36 PM","name":"gay time !!!","occasion":"party"},
+      {"time":"8:10 AM","name":"Orange Day","occasion":"none"}
+    ]
+  },
+  "May 4, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/2","occasion":"none"}
+    ]
+  },
+  "May 5, 2022": {
+    "color": "orange",
+    "events": [{"time":"8:10 AM","name":"Orange Day","occasion":"none"}]
+  },
+  "May 6, 2022": {
+    "color": "blue",
+    "events": [
+      {"time":"8:10 AM","name":"Blue Day","occasion":"none"},
+      {"time":"9:47 AM","name":"LS 4/7","occasion":"none"}
+    ]
+  }
+}

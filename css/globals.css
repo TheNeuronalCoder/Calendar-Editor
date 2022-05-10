@@ -1,0 +1,132 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+#edit {
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+  background-color: white;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 1px 2px -2px #00000029, 0 3px 6px #0000001f, 0 5px 12px 4px #00000017;
+  z-index: 10;
+}
+
+#edit h1 {
+  margin: 0;
+  font-size: 42px;
+  text-align: center;
+}
+
+.event-desc {
+  display: flex;
+  margin: 10px 40px 0;
+  border-radius: 5px;
+  align-items: center;
+  flex-direction: row;
+  padding: 5px 0 5px 10px;
+  border: 1px solid #d9d9d9;
+}
+
+.ant-dropdown-menu {
+  display: flex;
+  flex-direction: row;
+}
+
+.circle {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+#add-event {
+  cursor: pointer;
+  color: #1890ff;
+  text-align: center;
+}
+
+.grey-color { background-color: grey; }
+.blue-color { background-color: blue; }
+.orange-color { background-color: orange; }
+.transparent-color {
+  background-image: linear-gradient(45deg, #808080 25%, transparent 25%), linear-gradient(-45deg, #808080 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #808080 75%), linear-gradient(-45deg, transparent 75%, #808080 75%);
+  background-size: 10px 10px;
+  background-position: 0 0, 0 5px, 5px -5px, -5px 0px;
+}
+
+.occasion {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.none-color {
+  background-size: 30px 30px;
+  background-image: url('/none.png');
+}
+.party-color {
+  background-size: 30px 30px;
+  background-image: url('/party.png');
+}
+.sad-color {
+  background-size: 30px 30px;
+  background-image: url('/sad.png');
+}
+
+.close-popup {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.event-input {
+  flex-grow: 1;
+  outline: none;
+  padding: 4px 11px;
+  border-radius: 2px;
+  margin: 0 5px 0 10px;
+  border: 1px solid #d9d9d9;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.popup-header {
+  display: flex;
+  margin: 40px 0 5px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  
+/*   background-image: linear-gradient(45deg, #808080 25%, transparent 25%), linear-gradient(-45deg, #808080 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #808080 75%), linear-gradient(-45deg, transparent 75%, #808080 75%);
+  background-size: 20px 20px;
+  background-position: 0 0, 0 10px, 10px -10px, -10px 0px; */
+
+/*   background-image: linear-gradient(45deg, #808080 25%, transparent 25%), linear-gradient(-45deg, #808080 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #808080 75%), linear-gradient(-45deg, transparent 75%, #808080 75%);
+  background-size: 10px 10px;
+  background-position: 0 0, 0 5px, 5px -5px, -5px 0px; */
+}
+
+.popup-header .circle {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+#events {
+  height: 350px;
+  overflow-y: auto;
+}
+
+.delete-event {
+  cursor: pointer;
+  margin-right: 5px;
+}
